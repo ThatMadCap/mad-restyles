@@ -21,7 +21,7 @@ If you choose to use any of my restyles of the following resources, I recommend 
 ---
 
 ### [ox_lib](https://github.com/ThatMadCap/ox_lib-restyle)
-![396977856-a30319b0-a99b-4dc4-800e-d74c798b30ee](https://github.com/user-attachments/assets/209705a7-606c-4fc9-9f99-a4359177cb9e)
+![ox_lib-restyle2](https://github.com/user-attachments/assets/f170bec7-7e28-4d8b-b2b1-1f78dd801631)
 
 ---
 
