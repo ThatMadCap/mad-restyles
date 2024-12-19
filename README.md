@@ -25,8 +25,9 @@ If you choose to use any of my restyles of the following resources, I recommend 
 
 ---
 
-### [ls_tasklist](https://github.com/ThatMadCap/ls_tasklist-restyle)
-![397041869-759413c8-6af7-4558-afa1-4aeede0340f0](https://github.com/user-attachments/assets/a5190de6-aadb-4405-ac9b-69b055139951)
+### [minimal-hud](https://github.com/ThatMadCap/minimal-hud-restyle)
+![minimal-hud1](https://github.com/user-attachments/assets/79b17545-d0d3-4aa8-98a1-069c7dc251c6)
+![minimal-hud2](https://github.com/user-attachments/assets/7d0dc17c-e265-48c3-9fac-a7c5eef71c58)
 
 ---
 
@@ -42,6 +43,11 @@ If you choose to use any of my restyles of the following resources, I recommend 
 
 ### [boii_ui](https://github.com/ThatMadCap/boii_ui-restyle) (action menu only)
 ![actionmenu-restyle](https://github.com/user-attachments/assets/43729be7-a2bf-4597-8623-37b89e59a2d4)
+
+---
+
+### [ls_tasklist](https://github.com/ThatMadCap/ls_tasklist-restyle)
+![397041869-759413c8-6af7-4558-afa1-4aeede0340f0](https://github.com/user-attachments/assets/a5190de6-aadb-4405-ac9b-69b055139951)
 
 ---
 
