@@ -31,6 +31,11 @@ This is a collection of forked resources that I’ve restyled into a cohesive an
 
 ---
 
+### [ns-pausemenuv2](https://github.com/ThatMadCap/ns-pausemenuv2-restyle)
+![pausemenu-restyle](https://github.com/user-attachments/assets/059a41df-7a35-4806-bc9a-1c460a8e26ea)
+
+---
+
 ## 📜 License
 
 All resources linked here are subject to their respective licenses. My contributions to the restyling follow the same license terms as the original repositories.
