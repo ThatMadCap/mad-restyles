@@ -40,6 +40,11 @@ If you choose to use any of my restyles of the following resources, I recommend 
 
 ---
 
+### [boii_ui](https://github.com/ThatMadCap/boii_ui-restyle) (action menu only)
+![actionmenu-restyle](https://github.com/user-attachments/assets/43729be7-a2bf-4597-8623-37b89e59a2d4)
+
+---
+
 ## 📜 License
 
 All resources linked here are subject to their respective licenses. My contributions to the restyling follow the same license terms as the original repositories.
