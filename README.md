@@ -1,6 +1,6 @@
 # mad-restyles
 
-This is a collection of forked resources that I’ve restyled into a cohesive and unique theme. Each project retains its original functionality but has been updated with a fresh look.
+This is a collection of forked resources that I’ve restyled into a cohesive and unique theme. Each project retains its original functionality (and in some cases adds to them) but has been updated with a fresh look.
 
 If you choose to use any of my restyles of the following resources, I recommend renaming them back to their original titles *(e.g., removing the "-restyle").*
 
@@ -26,8 +26,7 @@ If you choose to use any of my restyles of the following resources, I recommend 
 ---
 
 ### [minimal-hud](https://github.com/ThatMadCap/minimal-hud-restyle)
-![minimal-hud1](https://github.com/user-attachments/assets/79b17545-d0d3-4aa8-98a1-069c7dc251c6)
-![minimal-hud2](https://github.com/user-attachments/assets/7d0dc17c-e265-48c3-9fac-a7c5eef71c58)
+![minimal-hud-restyle](https://github.com/user-attachments/assets/80b4b2c8-b5f0-4025-95e8-fcf337f1a1a0)
 
 ---
 
