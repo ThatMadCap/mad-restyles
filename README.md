@@ -35,6 +35,11 @@ If you choose to use any of my restyles of the following resources, I recommend 
 
 ---
 
+### [bl_vehiclemenu](https://github.com/ThatMadCap/bl_vehiclemenu-restyle)
+![bl-vehiclemenu-restyle](https://github.com/user-attachments/assets/0c55aa18-9347-4b1e-8af1-7b0a338c5f54)
+
+---
+
 ### [ns-pausemenuv2](https://github.com/ThatMadCap/ns-pausemenuv2-restyle)
 ![pausemenu-restyle](https://github.com/user-attachments/assets/059a41df-7a35-4806-bc9a-1c460a8e26ea)
 
