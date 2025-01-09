@@ -4,6 +4,8 @@ This is a collection of forked resources that I’ve restyled into a cohesive an
 
 If you choose to use any of my restyles of the following resources, I recommend renaming them back to their original titles *(e.g., removing the "-restyle").*
 
+I don't provide support for these resources outside of the changes I've made. If you have an issue, you should contact the author of that resource.
+
 <a href="https://ko-fi.com/madcap" target="_blank"><img src="https://assets-global.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea0b_kofi_long_button_red%25402x-p-500.png" alt="Support me on Ko-fi" width="250"></a>
 
 ---
