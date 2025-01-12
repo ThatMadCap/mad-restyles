@@ -28,9 +28,7 @@ I don't provide support for these resources outside of the changes I've made. If
 ---
 
 ### [minimal-hud](https://github.com/ThatMadCap/minimal-hud-restyle)
-![hud-1](https://github.com/user-attachments/assets/498deacb-c1cc-4cd4-9dc7-78a6fcceb583)
-![hud-2](https://github.com/user-attachments/assets/94cff99c-eb69-4832-8cf0-835c8566dfd3)
-![hud-3](https://github.com/user-attachments/assets/a310a4c4-689d-44f5-8246-5a8053bbc255)
+![minimal-hud](https://github.com/user-attachments/assets/a36c2a33-4f50-477d-bc49-777c025b49e8)
 
 ---
 
