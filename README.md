@@ -12,6 +12,11 @@ I don't provide support for these resources outside of the changes I've made. If
 
 ## 🌟 Restyles
 
+### [minimal-hud](https://github.com/ThatMadCap/minimal-hud-restyle)
+![minimal-hud](https://github.com/user-attachments/assets/a36c2a33-4f50-477d-bc49-777c025b49e8)
+
+---
+
 ### [ox_inventory](https://github.com/ThatMadCap/ox_inventory-restyle)
 ![396871882-41cec906-41e0-4b51-b2bf-aea7242373a5](https://github.com/user-attachments/assets/de008c70-b979-4d1c-9228-67a343147d58)
 
@@ -24,11 +29,6 @@ I don't provide support for these resources outside of the changes I've made. If
 
 ### [ox_lib](https://github.com/ThatMadCap/ox_lib-restyle)
 ![ox_lib-restyle2](https://github.com/user-attachments/assets/f170bec7-7e28-4d8b-b2b1-1f78dd801631)
-
----
-
-### [minimal-hud](https://github.com/ThatMadCap/minimal-hud-restyle)
-![minimal-hud](https://github.com/user-attachments/assets/a36c2a33-4f50-477d-bc49-777c025b49e8)
 
 ---
 
