@@ -13,7 +13,7 @@ I don't provide support for these resources outside of the changes I've made. If
 ## 🌟 Restyles
 
 ### [minimal-hud](https://github.com/ThatMadCap/minimal-hud-restyle)
-![minimal-hud](https://github.com/user-attachments/assets/a36c2a33-4f50-477d-bc49-777c025b49e8)
+![minimal-hud-2 1 0](https://github.com/user-attachments/assets/5e4ff657-8ea2-419b-bb57-9da052f871b1)
 
 ---
 
